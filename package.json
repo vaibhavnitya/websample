@@ -1,0 +1,13 @@
+{
+  "name": "websample",
+  "description": "A training application to deploy web application server",
+  "version": "1.0.0",
+  "url": "https://github.com/vaibhavnitya/websample.git",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
