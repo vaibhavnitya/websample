@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "url": "https://github.com/vaibhavnitya/websample.git",
   "scripts": {
-    "start": "node server.js"
+    "start": "npm install && nodejs server.js"
   },
   "dependencies": {
     "ejs": "^2.5.7",
